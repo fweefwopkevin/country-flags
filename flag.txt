@@ -40,7 +40,7 @@ In euismod, est ut aliquet auctor, nisl metus sollicitudin eros, ut gravida tell
 
 Cras lobortis nisl nibh, vitae aliquam eros volutpat in. Nam mattis ligula a ultrices commodo. Duis in diam in nulla tempor sollicitudin feugiat nec diam. Integer vitae blandit massa. Pellentesque tincidunt justo quis turpis ultricies, nec varius est imperdiet. Maecenas feugiat sapien a tellus semper, ut ornare tellus consectetur. Vestibulum pretium pulvinar erat, sed fringilla nisl maximus id. Mauris maximus risus est, sit amet tempus orci sodales ac. Vivamus non arcu et risus lacinia cursus. Etiam congue mi sed enim blandit cursus. Morbi libero ipsum, vestibulum aliquam arcu ac, porttitor molestie felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed dictum laoreet velit, eu ornare justo luctus sit amet. Nulla venenatis sapien eu sem venenatis, nec ultricies leo venenatis.
 
-Flag: fwopCTF{h1dd3n_1n_7h3_h1570ry_28934}
+Flag: [REDACTED]
 
 Mauris ut felis ac ipsum scelerisque sodales. Nullam nec varius est. Suspendisse mattis urna ut magna ullamcorper, id vestibulum tellus ultricies. Praesent nunc velit, congue in pretium in, auctor a dui. Nulla feugiat convallis orci rutrum dictum. Duis at placerat quam. Nunc porta arcu vel fermentum tempor. Morbi non sapien vitae purus rhoncus rhoncus. Suspendisse faucibus leo sed laoreet ultricies. Pellentesque a eleifend risus, vel blandit eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque molestie urna et libero efficitur, eget ultrices eros fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
